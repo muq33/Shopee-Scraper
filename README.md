@@ -1,4 +1,16 @@
+
 # Shopee-Scraper
-WIP
-To do:
--> Add a way to store multiple values of the product during the passing of time.
+
+Um código desenvolvido em python para extrair dados da Shopee, afim de monitorar preços.
+
+## Roadmap
+
+- Otimizar o desempenho do código de forma geral
+
+- Adicionar uma maneira de visualizar o preço dos produtos ao decorrer do tempo
+
+
+## Autores
+
+- [@octokatherine](https://github.com/muq33)
+
