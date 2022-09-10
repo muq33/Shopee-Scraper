@@ -12,5 +12,5 @@ Um código desenvolvido em python para extrair dados da Shopee, afim de monitora
 
 ## Autores
 
-- [@octokatherine](https://github.com/muq33)
+- [@muq33](https://github.com/muq33)
 
